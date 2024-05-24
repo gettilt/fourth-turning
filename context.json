@@ -1,0 +1,595 @@
+{
+    "AAPL": {
+        "chat_gpt": "Apple's wide range of technology products and services could see increased demand in a tech-driven rebuilding effort.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "AMD": {
+        "chat_gpt": "Advanced Micro Devices produces semiconductors essential for technology used in defense and rebuilding efforts.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "AMZN": {
+        "chat_gpt": "Amazon could benefit from increased demand for its e-commerce and cloud computing services during and after crises.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "BA": {
+        "chat_gpt": "Boeing could benefit from increased defense spending and the need for aircraft in both military and rebuilding efforts.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/defense-stocks/",
+                "title": "Best Defense Stocks for 2024: Defense Investing 101",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://money.cnn.com/pf/features/lists/warstocks/",
+                "title": "CNN/Money: The War Stocks - Business",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://bullishbears.com/war-stocks/",
+                "title": "War Stocks List - Best Companies to Trade",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "BHP": {
+        "chat_gpt": "BHP Group, a leading resources company, is well-positioned to supply the raw materials needed for rebuilding and defense technologies.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "CAT": {
+        "chat_gpt": "Caterpillar Inc. is likely to see increased demand for its heavy machinery for rebuilding efforts in post-crisis environments.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/construction-stocks/infrastructure-stocks/",
+                "title": "Top Infrastructure Stocks in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.nasdaq.com/articles/the-top-3-infrastructure-stocks-to-buy-in-march-2024",
+                "title": "The Top 3 Infrastructure Stocks to Buy in March 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/construction-stocks/",
+                "title": "Best Construction Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "DE": {
+        "chat_gpt": "Deere & Company could see increased demand for its agricultural and construction machinery in rebuilding efforts.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.kiplinger.com/investing/stocks/stocks-to-buy/602447/best-infrastructure-stocks-americas-big-building-spend",
+                "title": "13 Best Infrastructure Stocks for America's Big Building ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://moneywise.com/investing/stocks/best-infrastructure-stocks",
+                "title": "5 Infrastructure Stocks to Consider",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "FCX": {
+        "chat_gpt": "Freeport-McMoRan, a major copper producer, stands to gain from the increased demand for copper in electronics and rebuilding.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "GOOGL": {
+        "chat_gpt": "Alphabet Inc. could benefit from increased demand for its AI technologies and digital services in times of rebuilding.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://mywallst.com/blog/what-are-the-best-stocks-to-own-when-inflation-is-high/",
+                "title": "What Are The Best Stocks To Own When Inflation is High?",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "INTC": {
+        "chat_gpt": "Intel Corporation's semiconductor technologies are crucial for defense, technology, and rebuilding efforts.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "LMT": {
+        "chat_gpt": "Lockheed Martin is a leading defense contractor, likely to benefit from increased military spending during times of war.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/defense-stocks/",
+                "title": "Best Defense Stocks for 2024: Defense Investing 101",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investopedia.com/top-defense-stocks-for-q4-2023-8404450",
+                "title": "Top Defense Stocks for Q4 2023",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://money.cnn.com/pf/features/lists/warstocks/",
+                "title": "CNN/Money: The War Stocks - Business",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "MSFT": {
+        "chat_gpt": "Microsoft's cloud computing and AI technologies are essential for modern defense systems and rebuilding societal infrastructure.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "NEM": {
+        "chat_gpt": "Newmont Corporation, a gold mining company, could see gains as investors flock to gold as a safe haven during crises.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "NVDA": {
+        "chat_gpt": "NVIDIA is at the forefront of AI technology, which is crucial for both military applications and rebuilding societal infrastructure.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/ScottMartindale/status/1765385872915202462",
+                "text": "Here is my new Sector Detector post, \"Stock market rally seems overdone.\" I discuss #AI mania, federal debt, valuations, #inflation, and Sabrient's SectorCast rankings, and top #ETF ideas, plus $NVDA $SMCI $AAPL $IBIT #economy #sectors #bitcoin #gold https://t.co/674n0ZWcx6",
+                "username": "ScottMartindale",
+                "user_url": "https://twitter.com/ScottMartindale",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1627766556418801665/1zCQiTaP_normal.jpg",
+                "date": "2024-03-06T14:36:06Z"
+            },
+            {
+                "url": "https://twitter.com/hataf_news/status/1747190957743718574",
+                "text": "Philips Stock: Kicking The Tires On An Industry Leader (NYSE: $PHG)\n\n$TSLA $AAPL $JPM $BAC $MARA $NVDA $AMD $COIN $META $MSFT $SHOP $AMZN $IBIT $BA $GOOGL $SPY $QQQ\nhttps://t.co/JX52Zc5h9j",
+                "username": "hataf_news",
+                "user_url": "https://twitter.com/hataf_news",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1685965373353693184/jo5Eta49_normal.jpg",
+                "date": "2024-01-16T09:36:00Z"
+            }
+        ],
+        "experts": []
+    },
+    "PYPL": {
+        "chat_gpt": "PayPal Holdings could see growth as digital payments become more prevalent in a rebuilding economy.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "RTX": {
+        "chat_gpt": "Raytheon Technologies provides advanced defense and aerospace systems, which are in higher demand during conflicts.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/defense-stocks/",
+                "title": "Best Defense Stocks for 2024: Defense Investing 101",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.forbes.com/uk/advisor/investing/best-defence-stocks/",
+                "title": "Our Pick Of The Best Defence Industry Stocks - Investing",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "SQ": {
+        "chat_gpt": "Block, Inc. (formerly Square) could benefit from increased adoption of digital currencies and blockchain technology in post-crisis economies.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TSLA": {
+        "chat_gpt": "Tesla's advancements in AI and energy solutions could play a significant role in rebuilding and innovating post-crisis infrastructure.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/hataf_news/status/1747190957743718574",
+                "text": "Philips Stock: Kicking The Tires On An Industry Leader (NYSE: $PHG)\n\n$TSLA $AAPL $JPM $BAC $MARA $NVDA $AMD $COIN $META $MSFT $SHOP $AMZN $IBIT $BA $GOOGL $SPY $QQQ\nhttps://t.co/JX52Zc5h9j",
+                "username": "hataf_news",
+                "user_url": "https://twitter.com/hataf_news",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1685965373353693184/jo5Eta49_normal.jpg",
+                "date": "2024-01-16T09:36:00Z"
+            }
+        ],
+        "experts": []
+    },
+    "XOM": {
+        "chat_gpt": "Exxon Mobil could benefit from increased oil prices due to geopolitical tensions affecting supply.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.hartfordfunds.com/insights/market-perspectives/equity/which-equity-sectors-can-combat-higher-inflation.html",
+                "title": "Which Equity Sectors Can Combat Higher Inflation?",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.nerdwallet.com/article/investing/inflation-proof-stocks",
+                "title": "How to Find the Best Stocks for Inflation",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "GD": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/defense-stocks/",
+                "title": "Best Defense Stocks for 2024: Defense Investing 101",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://money.cnn.com/pf/features/lists/warstocks/",
+                "title": "CNN/Money: The War Stocks - Business",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://bullishbears.com/war-stocks/",
+                "title": "War Stocks List - Best Companies to Trade",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "HII": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.cnbc.com/2023/12/01/op-ed-war-is-a-good-time-for-investors-to-load-up-on-defense-stock.html",
+                "title": "War is a good time for investors to load up on defense stock",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.forbes.com/uk/advisor/investing/best-defence-stocks/",
+                "title": "Our Pick Of The Best Defence Industry Stocks - Investing",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "NOC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/defense-stocks/",
+                "title": "Best Defense Stocks for 2024: Defense Investing 101",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investopedia.com/top-defense-stocks-for-q4-2023-8404450",
+                "title": "Top Defense Stocks for Q4 2023",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://money.cnn.com/pf/features/lists/warstocks/",
+                "title": "CNN/Money: The War Stocks - Business",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "NUE": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/construction-stocks/",
+                "title": "Best Construction Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.kiplinger.com/investing/stocks/stocks-to-buy/602447/best-infrastructure-stocks-americas-big-building-spend",
+                "title": "13 Best Infrastructure Stocks for America's Big Building ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://moneywise.com/investing/stocks/best-infrastructure-stocks",
+                "title": "5 Infrastructure Stocks to Consider",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "COIN": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/RealSimpleAriel/status/1778175710634381386",
+                "text": "I see plenty of people still bullish on $BTC when every single name in the sector $MARA $RIOT $CLSK $MSTR $WULF $HUT $CIFR look like shit. $COIN $IBIT look better; but really, just two names?? so i guess we all just pile into those two, wonder how well that ends?",
+                "username": "RealSimpleAriel",
+                "user_url": "https://twitter.com/RealSimpleAriel",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1476667518559346693/2-i7-_nh_normal.jpg",
+                "date": "2024-04-10T21:38:20Z"
+            },
+            {
+                "url": "https://twitter.com/RealSimpleAriel/status/1778175711838105860",
+                "text": "Groups that are not being supported by multiple high quality names and strong stock setups should be looked at through a cautious lens. $COIN and $IBIT are not enough to warrant real risk into the sector.",
+                "username": "RealSimpleAriel",
+                "user_url": "https://twitter.com/RealSimpleAriel",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1476667518559346693/2-i7-_nh_normal.jpg",
+                "date": "2024-04-10T21:38:21Z"
+            },
+            {
+                "url": "https://twitter.com/traderprad/status/1780372801171378262",
+                "text": "\ud83d\udea8 Join me live at 8PM EST tonight! \ud83d\udcc8\n\n\ud83d\udd0d Earnings on deck: $UAL $IBKR $ASML $ABT\n\ud83c\udfe6 Banking giants day 2/3 trades: $JPM $MS $GS $BAC\n\ud83d\udcb0 Bitcoin sector watch: $COIN $MARA $BITO $IBIT\n\ud83d\udd25 Mag 7 &amp; the overall market: $QQQ and $SPY always in focus!\n#DayTrading https://t.co/wFKkkoQRzP",
+                "username": "traderprad",
+                "user_url": "https://twitter.com/traderprad",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1763056853167050752/-qTh9HD0_normal.jpg",
+                "date": "2024-04-16T23:08:48Z"
+            }
+        ],
+        "experts": []
+    },
+    "IBIT": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/InfinityBit_io/status/1741626868644933692",
+                "text": "The InfinityBit Public Beta is officially live!\n\nAvailable now for $IBIT holders with a minimum requirement of 5,000,000 IBIT during this initial phase of testing.\n\nBe sure to check it out!\nhttps://t.co/9mXLmXGiPV\n\n#CryptoNews #BullRun2024 https://t.co/xBIZmmoVDg",
+                "username": "InfinityBit_io",
+                "user_url": "https://twitter.com/InfinityBit_io",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1720200473679163392/M90ERDqH_normal.jpg",
+                "date": "2024-01-01T01:06:18Z"
+            },
+            {
+                "url": "https://twitter.com/InfinityBit_io/status/1745250096977977851",
+                "text": "In anticipation of the second phase of our Beta, $IBIT holders are increasing daily, demonstrating significant interest in what we are building at InfinityBit\n\nThe #BitcoinETF approval marks a historical date for the entire crypto industry.\nNow, it's our turn to make history too https://t.co/7FB1ChRD8O",
+                "username": "InfinityBit_io",
+                "user_url": "https://twitter.com/InfinityBit_io",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1720200473679163392/M90ERDqH_normal.jpg",
+                "date": "2024-01-11T01:03:42Z"
+            },
+            {
+                "url": "https://twitter.com/moonpay/status/1784946584356069871",
+                "text": "Exciting News! MoonPay's Chief Legal Officer, @lindsey_haswell, has been appointed to the board of @BlackRock's $IBIT spot Bitcoin ETF! \ud83d\udfe0\n\nCurrently, $IBIT stands as the second-largest spot Bitcoin ETF by assets under management, showcasing its prominence in the industry.\n\nWe are proud to see Lindsey's talents recognized on such a significant platform and look forward to the continued success of BlackRock's $IBIT under her guidance.",
+                "username": "moonpay",
+                "user_url": "https://twitter.com/moonpay",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1643309680930824192/hbMzk-HN_normal.jpg",
+                "date": "2024-04-29T14:03:23Z"
+            }
+        ],
+        "experts": []
+    },
+    "MARA": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/HyenukChu/status/1785696559390228524",
+                "text": "$XLE Recuerdo mucho decirle a Charles en la reuni\u00f3n de mi oficina en Bogot\u00e1. \nSiempre pregunto por especulaciones. \nLes dec\u00eda que $MARA $IBIT encontrar\u00edan R y caer\u00edan pronto as\u00ed como los de sector energ\u00eda y q en lugar de preparar entradas en Swing deber\u00edan estar en short o put https://t.co/5VGV1IoaJz",
+                "username": "HyenukChu",
+                "user_url": "https://twitter.com/HyenukChu",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1649682144892006400/Upx0OB7B_normal.jpg",
+                "date": "2024-05-01T15:43:31Z"
+            },
+            {
+                "url": "https://twitter.com/RealSimpleAriel/status/1778175710634381386",
+                "text": "I see plenty of people still bullish on $BTC when every single name in the sector $MARA $RIOT $CLSK $MSTR $WULF $HUT $CIFR look like shit. $COIN $IBIT look better; but really, just two names?? so i guess we all just pile into those two, wonder how well that ends?",
+                "username": "RealSimpleAriel",
+                "user_url": "https://twitter.com/RealSimpleAriel",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1476667518559346693/2-i7-_nh_normal.jpg",
+                "date": "2024-04-10T21:38:20Z"
+            },
+            {
+                "url": "https://twitter.com/ca1cu1ated/status/1765768644271669640",
+                "text": "$MARA $CLSK $BITF $WULF $RIOT $HIVE $BTBT $CORZ $BTDR $CIFR $IREN $HUT $WGMI $IBIT $FBIT #BTC $BTC #BITCOIN $BTCUSD \nI've been telling you guys every step of the way since I started being active here months ago. This sector is wild and is best to be traded. Got shit every time and here we are again. This is 4/4 larger moves I've called out since I've been here. \n\nPosted all the entries for last November.  Literally told you every day when I sold end of December and said it was too hot. \n\nAround new years I said miners were shit right now and noted why, people loved that lol. Tons of comments saying I'd miss the move, you're weak and on and on. Just a dead give away people have no idea wtf they are talking about. \n\nThen again called that miners might have turned the corner again before they even moved before Fed.  Followed by calling out all my buys here as Feb began.  \n\nStated all the huge trades I made in that short window, said not to fuck up making a bunch of money, got light soon after and said I was stacking a lot of this into #BTC. \n\n$BTC launched as miners got taken behind the shed when people were calling for miner moon launches. Narratives have to be backed by price action or they're wrong, if it doesn't make money it's just wrong. Price is the only thing that pays you.\n\nThe point is, it can be done. It's possible to trade.  I will know the day miners don't look like shit again.  It's possible to protect yourself. It can be complex or it can be more simple. You could literally just sell below a 50d or 100d or whatever if you want to go dummy style. Works for anything. Find your parameters. Set your levels. Rather than possibly lose it all or be stuck for years. A lot of these spec names don't work out and people lose a lot or get stuck in them. Figure out a plan that works for you and that can protect you. Walk away with a few scrapes or crawl away with broken legs???",
+                "username": "ca1cu1ated",
+                "user_url": "https://twitter.com/ca1cu1ated",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1688997503104946176/fAIM10mE_normal.jpg",
+                "date": "2024-03-07T15:57:05Z"
+            }
+        ],
+        "experts": []
+    },
+    "MSTR": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/RealSimpleAriel/status/1778175710634381386",
+                "text": "I see plenty of people still bullish on $BTC when every single name in the sector $MARA $RIOT $CLSK $MSTR $WULF $HUT $CIFR look like shit. $COIN $IBIT look better; but really, just two names?? so i guess we all just pile into those two, wonder how well that ends?",
+                "username": "RealSimpleAriel",
+                "user_url": "https://twitter.com/RealSimpleAriel",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1476667518559346693/2-i7-_nh_normal.jpg",
+                "date": "2024-04-10T21:38:20Z"
+            },
+            {
+                "url": "https://twitter.com/InsiderIdeas/status/1764690084547191092",
+                "text": "With $IBIT soaring and the corn almost at new ATH, check out our piece on $PNIX.AQ as a value-play on the sector\n\nIf $MSTR can trade at 100% premium to the $BTC on its balance sheet then perhaps Phoenix Digital can at least get close to NAV",
+                "username": "InsiderIdeas",
+                "user_url": "https://twitter.com/InsiderIdeas",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1415698014958665730/AsyDBRZA_normal.jpg",
+                "date": "2024-03-04T16:31:17Z"
+            },
+            {
+                "url": "https://twitter.com/powowowbtc/status/1752228379380879376",
+                "text": "\u300cBitcoin, not crypto\u300d\u306e\u30bb\u30a4\u30e9\u30fc\u7387\u3044\u308b $MSTR \u306e\u682a\u4fa1\u304c\n\u300cBitcoin &amp; Crypto\u300d\u306e\u30e9\u30ea\u30fc\u306eETF $IBIT \u3092\u30a2\u30a6\u30c8\u30d1\u30d5\u30a9\u30fc\u30e0\u3057\u3066\u3044\u307e\u3059\u3002\n\u3055\u3089\u306b\u3001#Bitcoin mining industry\u306e $MARA \u306e\u682a\u4fa1\u304c $MSTR \u3092\u30a2\u30a6\u30c8\u30d1\u30d5\u30a9\u30fc\u30e0\u3057\u3066\u3044\u307e\u3059\u3002 https://t.co/u1ZiuU9ABR",
+                "username": "powowowbtc",
+                "user_url": "https://twitter.com/powowowbtc",
+                "user_image_url": "https://pbs.twimg.com/profile_images/950812798522605568/BYl9A2V5_normal.jpg",
+                "date": "2024-01-30T07:12:55Z"
+            }
+        ],
+        "experts": []
+    },
+    "WULF": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/RealSimpleAriel/status/1778175710634381386",
+                "text": "I see plenty of people still bullish on $BTC when every single name in the sector $MARA $RIOT $CLSK $MSTR $WULF $HUT $CIFR look like shit. $COIN $IBIT look better; but really, just two names?? so i guess we all just pile into those two, wonder how well that ends?",
+                "username": "RealSimpleAriel",
+                "user_url": "https://twitter.com/RealSimpleAriel",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1476667518559346693/2-i7-_nh_normal.jpg",
+                "date": "2024-04-10T21:38:20Z"
+            },
+            {
+                "url": "https://twitter.com/ca1cu1ated/status/1765768644271669640",
+                "text": "$MARA $CLSK $BITF $WULF $RIOT $HIVE $BTBT $CORZ $BTDR $CIFR $IREN $HUT $WGMI $IBIT $FBIT #BTC $BTC #BITCOIN $BTCUSD \nI've been telling you guys every step of the way since I started being active here months ago. This sector is wild and is best to be traded. Got shit every time and here we are again. This is 4/4 larger moves I've called out since I've been here. \n\nPosted all the entries for last November.  Literally told you every day when I sold end of December and said it was too hot. \n\nAround new years I said miners were shit right now and noted why, people loved that lol. Tons of comments saying I'd miss the move, you're weak and on and on. Just a dead give away people have no idea wtf they are talking about. \n\nThen again called that miners might have turned the corner again before they even moved before Fed.  Followed by calling out all my buys here as Feb began.  \n\nStated all the huge trades I made in that short window, said not to fuck up making a bunch of money, got light soon after and said I was stacking a lot of this into #BTC. \n\n$BTC launched as miners got taken behind the shed when people were calling for miner moon launches. Narratives have to be backed by price action or they're wrong, if it doesn't make money it's just wrong. Price is the only thing that pays you.\n\nThe point is, it can be done. It's possible to trade.  I will know the day miners don't look like shit again.  It's possible to protect yourself. It can be complex or it can be more simple. You could literally just sell below a 50d or 100d or whatever if you want to go dummy style. Works for anything. Find your parameters. Set your levels. Rather than possibly lose it all or be stuck for years. A lot of these spec names don't work out and people lose a lot or get stuck in them. Figure out a plan that works for you and that can protect you. Walk away with a few scrapes or crawl away with broken legs???",
+                "username": "ca1cu1ated",
+                "user_url": "https://twitter.com/ca1cu1ated",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1688997503104946176/fAIM10mE_normal.jpg",
+                "date": "2024-03-07T15:57:05Z"
+            },
+            {
+                "url": "https://twitter.com/ca1cu1ated/status/1767180872556368292",
+                "text": "$CLSK $MARA $BITF $WULF $RIOT $HIVE $BTBT $CORZ $BTDR $CIFR $IREN $HUT $WGMI $IBIT $FBIT #BTC $BTC $BTCUSD \nBig test for the miners today and this week.  Need to see if institutional buyers will step back in and follow through with $CLSK and wake up the sector.  #BITCOIN blasting overnight with relatively muted miner action in premarket. Will need to see if they can catch more bids in regular hours session!",
+                "username": "ca1cu1ated",
+                "user_url": "https://twitter.com/ca1cu1ated",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1688997503104946176/fAIM10mE_normal.jpg",
+                "date": "2024-03-11T13:28:47Z"
+            }
+        ],
+        "experts": []
+    },
+    "BIPC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/construction-stocks/infrastructure-stocks/",
+                "title": "Top Infrastructure Stocks in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.kiplinger.com/investing/stocks/stocks-to-buy/602447/best-infrastructure-stocks-americas-big-building-spend",
+                "title": "13 Best Infrastructure Stocks for America's Big Building ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "CCI": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/construction-stocks/infrastructure-stocks/",
+                "title": "Top Infrastructure Stocks in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.kiplinger.com/investing/stocks/stocks-to-buy/602447/best-infrastructure-stocks-americas-big-building-spend",
+                "title": "13 Best Infrastructure Stocks for America's Big Building ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "FLR": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/construction-stocks/infrastructure-stocks/",
+                "title": "Top Infrastructure Stocks in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/construction-stocks/",
+                "title": "Best Construction Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.nasdaq.com/articles/3-infrastructure-stocks-to-buy-as-they-build-the-future",
+                "title": "3 Infrastructure Stocks to Buy as They Build the Future",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "PWR": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/the-top-3-infrastructure-stocks-to-buy-in-march-2024",
+                "title": "The Top 3 Infrastructure Stocks to Buy in March 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2024/02/after-cats-roar-the-3-best-infrastructure-stocks-to-buy-now/",
+                "title": "After CAT's Roar: The 3 Best Infrastructure Stocks to Buy Now",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "VMC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/the-top-3-infrastructure-stocks-to-buy-in-march-2024",
+                "title": "The Top 3 Infrastructure Stocks to Buy in March 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/construction-stocks/",
+                "title": "Best Construction Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.kiplinger.com/investing/stocks/stocks-to-buy/602447/best-infrastructure-stocks-americas-big-building-spend",
+                "title": "13 Best Infrastructure Stocks for America's Big Building ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    }
+}
